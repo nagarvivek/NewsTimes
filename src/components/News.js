@@ -10,9 +10,6 @@ const News = (props) => {
   const [loading, setloading] = useState(false);
   const [page, setPage] = useState(0);
   const [totalResult, setTotalResult] = useState(0);
-  //  document.title = `${
-  //     !props.category ? "HOME" : capitalizeFirstLetter(props.category)
-  //   } - NewsMonkey`;
 
   const capitalizeFirstLetter = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1);
@@ -34,6 +31,9 @@ const News = (props) => {
   };
 
   useEffect(() => {
+    document.title = `${
+      !props.category ? "HOME" : capitalizeFirstLetter(props.category)
+    } - NewsMonkey`;
     updateNews();
   }, []);
 
@@ -49,7 +49,10 @@ const News = (props) => {
 
   return (
     <>
-      <h1 className="text-center" style={{ margin: "35px 0px" }}>
+      <h1
+        className="text-center"
+        style={{ margin: "35px 0px", marginTop: "5rem" }}
+      >
         NewsMonkey - Top {capitalizeFirstLetter(props.category)} Headlines
       </h1>
       {loading && <Spinner />}
