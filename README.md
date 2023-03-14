@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>SocialClub  (Screenshots  and  video demonstration below!)</h1>
+	<h1>NewsMonkey  (Screenshots  and  video demonstration below!)</h1>
 </div>
 ## 🎓Overview
 <div>
@@ -10,7 +10,7 @@
 
 ## Video
 ## Infinite scrolling video
-https://user-images.githubusercontent.com/91886198/225093493-b120a258-6d99-47db-a52b-59e3ad7a7b00.mp4
+https://user-images.githubusercontent.com/91886198/225108044-f06c7741-e090-46e0-8e81-930c1b96cdaa.mp4
 
 ## Screenshots 
 ## 
