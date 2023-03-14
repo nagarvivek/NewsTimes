@@ -6,7 +6,9 @@
 	<b >NewsMonkey </b>  is a web application that provides users with the latest news from around the world. The app utilizes the NewsAPI to gather news articles from a variety of reputable sources and presents them to users in an easy-to-use interface. One of the key features of NewsMonkey is its advanced filtering options, which allow users to sort news articles by category, such as sports, entertainment, politics, and more. The app also incorporates infinite scrolling functionality, which enables users to seamlessly browse through a virtually endless stream of news articles without interruption.
 </div>
 
-https://user-images.githubusercontent.com/91886198/225108307-edf48057-3d44-4143-98a9-9058b2c0f50b.mp4
+
+
+
 
 
 
@@ -14,7 +16,7 @@ https://user-images.githubusercontent.com/91886198/225108307-edf48057-3d44-4143-
 
 ## Video
 ## Infinite scrolling video
-https://user-images.githubusercontent.com/91886198/225108044-f06c7741-e090-46e0-8e81-930c1b96cdaa.mp4
+https://user-images.githubusercontent.com/91886198/225108895-2d62dd23-a7a0-40e1-9a21-8b0fb40ccef2.mp4
 
 ## Screenshots 
 ## 
